@@ -1,12 +1,11 @@
-# Vlad Dezhniuk
 
 **Senior Full-Stack / Web3 Engineer** · Lublin, PL (originally Odesa, UA)
 
-5+ years building production web apps where mistakes are expensive — wallets, NFT marketplaces, cross-chain bridges, decentralized storage. Lately wiring LLMs into shipping products instead of demo videos.
+6+ years building production web apps where mistakes are expensive — wallets, NFT marketplaces, cross-chain bridges, decentralized storage. Lately wiring LLMs into shipping products instead of demo videos.
 
 ```
 Frontend  →  React · Next.js · TypeScript
-Backend   →  Node.js · NestJS · Go (learning, seriously)
+Backend   →  Node.js · NestJS (learning, seriously)
 Web3      →  Cosmos SDK · Solana · EVM · MPC
 AI / LLM  →  Integrations · embeddings · semantic search
 ```
