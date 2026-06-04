@@ -62,12 +62,7 @@ Front-end from scratch, WebSocket gameplay, Ethers.js + MetaMask onboarding.
  
 ---
  
-## Currently
- 
-- 🛠️ Learning Go properly — building toward backend systems, not "I finished a tutorial" properly
-- 🗺️ Side project **MapForge** — Next.js 15 + Go + PostGIS + MapLibre
-- 👀 Watching frontend commoditize itself and hedging accordingly
----
+
  
 ## Find me
  
